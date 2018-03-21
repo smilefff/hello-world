@@ -4,7 +4,14 @@ This is a test file that is used to study github.
 another change.
 GitHub入门教程hello world for
 propose to someone 向某人求婚  
-propose a toast 敬酒；举杯
-propose someone for 推荐某人(参加某组织)；提名某人(任某职)  
-propose to do 建议做...
 propose marriage 求婚
+
+feature
+英 ['fiːtʃə]  美 ['fitʃɚ] 
+n. 特色，特征；容貌；特写或专题节目
+vi. 起重要作用
+vt. 特写；以…为特色；由…主演
+
+
+
+
